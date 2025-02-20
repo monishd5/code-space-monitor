@@ -1,0 +1,7 @@
+{
+  "name": "Flask Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [5000]
+}

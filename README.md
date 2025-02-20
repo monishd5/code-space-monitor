@@ -11,7 +11,7 @@ This is a simple Flask application that provides system monitoring data via an H
 
 ### 1. Clone the Repository
 ```sh
- git clone https://github.com/your-username/code-space-monitor.git
+ git clone https://github.com/monishd5/code-space-monitor.git
  cd code-space-monitor
 ```
 
